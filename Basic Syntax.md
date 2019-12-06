@@ -1,6 +1,10 @@
 # Basic Syntax
 
+https://www.markdownguide.org/basic-syntax/
+
 The Markdown elements outlined.
+
+***Please Regardless of HTML Part***
 
 ## Overview
 
